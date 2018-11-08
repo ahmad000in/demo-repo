@@ -1,7 +1,10 @@
 This is my First comment
+
+second line
+This from branch1 user
 This is second commit
-<<<<<<< HEAD
+
 this is anther commit by user1
-=======
+
 This commit from another user2
->>>>>>> 82f74b0a1768706799145ae96a7d15029d32bb85
+
